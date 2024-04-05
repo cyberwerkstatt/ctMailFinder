@@ -1,0 +1,24 @@
+######## Anleitung ########
+
+Für die Installation des Tools "ctMailFinder" wurde eine Datei namens
+"install.exe" erstellt.
+Diese ist lediglich auszuführen!
+
+ACHTUNG: 
+Unmittelbar, nachdem "install.exe" gestartet wurde, wird Python3 auf ihrem 
+System installiert. Hier ist wichtig zu beachten, dass beim Startfenster der Installation 
+das Häckchen bei "Add to PATH" von IHNEN GESETZT wird!
+
+Dem restlichen Install-Prozess von Python folgen. 
+Danach wird "pip" und "holehe" automatische installiert - ebenso die restlichen
+Abhängigkeiten. 
+
+######## ctMailFinder ########
+
+Um nach der der Installation ctMailFinder zu starten genügt ein Doppelklick. 
+
+Nach dem Programmstart müssen sie nur noch den Dateinamen, in welchem 
+die Mailadressen (eine Emailadresse pro Zeile) stehen, übergeben und mit Enter bestätigen.
+
+
+######## Viel Spass ########
